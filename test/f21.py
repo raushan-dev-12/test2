@@ -18,3 +18,9 @@ xyz.write("Hi this is  another trial program file.\n")
 xyz.write(data[0:pos])
 xyz.write("Hey this is 3rd line.\n")
 xyz.write(data[pos+1:])
+print("12313")
+print("new 132435465")
+
+def add():
+    print("this is add function")
+
